@@ -1,5 +1,5 @@
 ---
-title: Dude, how do I change my oil?
+title: "Dude,-how-do-I-change-my-oil?"
 date: 2020-04-24
 ---
 
